@@ -65,6 +65,10 @@
    .card:not(:last-child){
       margin-bottom: 50px;
    }
+   .works,
+.about {
+   scroll-margin-top: 70px;
+}
 }
 
 @media (max-width:475px){
